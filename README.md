@@ -62,7 +62,6 @@ I'm a passionate Web Developer who loves building modern, scalable, and user-fri
 
 ---
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 <p>
   <img src="./profile/stats.svg" />
 </p>
