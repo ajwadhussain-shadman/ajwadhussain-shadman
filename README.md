@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Azwad Hussain Shadman  
 
-💻 Web Developer | ⚡ Problem Solver  
+💻 MERN Stack Developer | ⚡ Problem Solver  
 
 ---
 
