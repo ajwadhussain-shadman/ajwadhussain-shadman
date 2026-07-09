@@ -31,16 +31,22 @@ I'm a passionate Web Developer who loves building modern, scalable, and user-fri
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" />
+</p>
+
+
 **Tools & Concepts**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🌍 **Tourism Website** — A responsive web application built with React and Tailwind CSS.
-- 🛒 **Modern Web App** — Focused on clean UI, performance, and user experience.
+- 🌍 **Ticket Bari** — An  web application built with Next.js, BetterAuth, MongoDb,Express.js.
+- 🛒 **Pet Adoption** — Focused on clean UI, performance, and user experience.
 
 ---
 
