@@ -62,15 +62,10 @@ I'm a passionate Web Developer who loves building modern, scalable, and user-fri
 
 ---
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajwadhussain-shadman&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajwadhussain-shadman&layout=compact&theme=default" />
+  <img src="./profile/stats.svg" />
 </p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=ajwadhussain-shadman&theme=default" />
-</p>
----
 
 ## ⚡ Developer Mindset
 I focus on building **real-world web applications**, writing **clean and maintainable code**, and continuously learning new technologies to grow as a developer.
