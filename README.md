@@ -62,7 +62,7 @@ I'm a passionate Web Developer who loves building modern, scalable, and user-fri
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajwadhussain-shadman&theme=default" />
+  <img src="https://streak-stats.demolab.com/?user=ajwadhussain-shadman&theme=default" />
 </p>
 ---
 
