@@ -1,95 +1,70 @@
 
 <img src="banner.png" alt="banner" />
 
-
-# 👋 Hi, I'm Azwad Hussain Shadman  
-
-💻 MERN Stack Developer | ⚡ Problem Solver  
+# 👋 Hi, I'm Azwad Hussain Shadman
+### 💻 FullStack Developer | MERN Stack Developer | ⚡ Problem Solver
 
 ---
 
-## 🚀 About Me
-I am a passionate **Web Developer** focused on building modern, scalable, and user-friendly web applications.  
-I enjoy working with **React and Next.js**, and continuously improving my skills in both frontend and backend development.
-
-- 🌱 Currently learning: **Next.js & Full Stack Development**
-- 💼 Working on: **Modern Web Applications**
-- ⚡ Also experienced in **Competitive Programming**
-- 🎮 Built a 2D game using **C/C++ & raylib** (side project)
+## 🙋 About Me
+I'm a passionate Web Developer who loves building modern, scalable, and user-friendly applications. I mainly work with **React and Next.js**, and I'm constantly sharpening my skills across both frontend and backend development. Alongside web development, I enjoy competitive programming and occasionally build small games for fun.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- C  
-- C++  
-- JavaScript  
-
-### ⚙️ Frontend
-- React.js  
-- Next.js  
-- Tailwind CSS  
-
-### 🧰 Tools & Concepts
-- Git & GitHub  
-- REST API  
-- OOP  
-- Problem Solving  
+## 🎯 Current Activities
+- 🌱 Consistent  On  **Next.js** and Full Stack Development
+- 🌍 Working on a **Mern Stack Project** using Next.js & MongoDB
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🎮 Built a 2D game using **C/C++ & raylib**
 
 ---
 
-## 🎯 Current Focus
-- 🚀 Building scalable apps with **Next.js**
-- 🌐 Improving frontend UI/UX skills
-- 🧠 Practicing Data Structures & Algorithms
+## 🛠️ Skills
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,python" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+**Tools & Concepts**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mongodb" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
-- 🌍 **Tourism Website**  
-  A responsive web application built with React and Tailwind CSS.
-
-- 🛒 **Modern Web App**  
-  Focused on clean UI, performance, and user experience.
-
----
-
-## 🧠 Skills
-- Problem Solving  
-- Clean Code Practices  
-- Responsive Design  
-- Debugging  
+- 🌍 **Tourism Website** — A responsive web application built with React and Tailwind CSS.
+- 🛒 **Modern Web App** — Focused on clean UI, performance, and user experience.
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/azwad-hussain-shadman/" target="_blank">
+  <a href="https://www.linkedin.com/in/azwad-hussain-shadman" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/ajwadhussain-shadman" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
----
 
+---
+## 📊 GitHub Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajwadhussain-shadman&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajwadhussain-shadman&layout=compact&theme=default" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajwadhussain-shadman&theme=default" />
+</p>
 ---
 
 ## ⚡ Developer Mindset
 I focus on building **real-world web applications**, writing **clean and maintainable code**, and continuously learning new technologies to grow as a developer.
-
-<!--
-**ajwadhussain-shadman/ajwadhussain-shadman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
